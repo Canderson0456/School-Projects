@@ -1,0 +1,12 @@
+Takes an input file of numbers and creates an output file with said numbers, deleting duplicates, sorted, and paired with three roots next to it.
+eg:
+input:
+5
+4
+2
+4
+
+output:
+2(tab) 1.414(tab) 1.260(tab) 1.189
+4(tab) 2.000(tab) 1.587(tab) 1.414
+5(tab) 2.236(tab) 1.709(tab) 1.495
