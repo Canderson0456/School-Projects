@@ -1,0 +1,2 @@
+Lesser compares 5 input integers, and prints the smallest and largest.
+n2t takes an input number(between 1-99 inclusive), and returns it in text form, eg 62 to sixty-two.
