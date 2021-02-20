@@ -1,1 +1,2 @@
-This project creates a 10 x 10 grid in which the alphabet is printed, A-Z, adjacent to the previous letter. Where the next letter will go is random, with A always starting in the top left.
+This project creates a 10 x 10 grid in which the alphabet is printed, A-Z, adjacent to the previous letter. 
+Where the next letter will go is random, with A always starting in the top left.
