@@ -1,0 +1,1 @@
+Asks the user for a number, splits said number into 20s, 10s, 5s, 2s, and 1s. Useful for seperating a cash amount into bills.
