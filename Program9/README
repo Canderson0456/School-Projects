@@ -1,0 +1,2 @@
+Asks the user for an input, and then tells them if that input is a palindrome. Uses pointers to compare letters from the end of the string to letters from the beginning.
+Ignores spaces and punctuation.
