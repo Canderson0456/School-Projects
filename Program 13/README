@@ -1,0 +1,1 @@
+Using command line input, sort a ragged array of strings alphabetically. Required the use of dynamic memory allocation in order to make "strings" in c of different lengths.
