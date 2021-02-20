@@ -1,0 +1,1 @@
+Using multiple files (with a makefile for ease of compliling) compute a given equation using polish notation. Required a stack to push/pull from to execute.
