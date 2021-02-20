@@ -1,0 +1,3 @@
+European goods have a specific barcode attributed to them which is slightly different than US barcodes.
+This program evaluates the "check digit" for European barcodes, which determines if the barcode itself is correct.
+This is done by running all but the last digit in the barcode through an algorithm, which, if correct, should return the final digit.
